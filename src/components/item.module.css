@@ -1,0 +1,25 @@
+
+.item{
+    width: 250px;
+    padding: 20px;
+    
+
+}
+.item:hover{
+    box-shadow: 0 10px 10px 10px rgba(0,0,0,0.1);
+}
+.item_image  {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    
+}
+.ditails button{
+    padding: 5px 10px;
+    border:none;
+    font-weight: bold;
+    background-color: skyblue;
+    outline: none;
+    margin-left: 5px;
+
+}
